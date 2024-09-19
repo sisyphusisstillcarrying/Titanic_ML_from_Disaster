@@ -1,4 +1,4 @@
-Titanic Survival Prediction - Logistic Regression
+## Titanic Survival Prediction - Logistic Regression
 
 This repository contains my first attempt at solving the Kaggle Titanic: Machine Learning from Disaster competition using logistic regression.
 Project Overview
@@ -13,7 +13,7 @@ gender_submission.csv: A sample submission file in the correct format
 Requirements
 To run this project, you'll need:
 
-Python 3.x
+`Python 3.x`
 pandas
 numpy
 scikit-learn
